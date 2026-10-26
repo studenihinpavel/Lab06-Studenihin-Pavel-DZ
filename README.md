@@ -27,7 +27,7 @@
 
 ### Блок-схема
 
-<img width="562" height="922" alt="Блок схема Lab06 drawio" src="https://github.com/user-attachments/assets/280622ba-a772-4681-b02d-1f727d36e577" />
+<img width="573" height="579" alt="image" src="https://github.com/user-attachments/assets/00da85bd-591f-48b8-86f9-195b4a012823" />
 
 ## 2. Реализация программы
 
